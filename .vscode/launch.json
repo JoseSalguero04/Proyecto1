@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Holamundo",
+            "request": "launch",
+            "mainClass": "Holamundo",
+            "projectName": "Proyecto1_76a08d8"
+        },
+        {
+            "type": "java",
+            "name": "Menu",
+            "request": "launch",
+            "mainClass": "Menu",
+            "projectName": "Proyecto1_76a08d8"
+        },
+        {
+            "type": "java",
+            "name": "Projecto$Menu",
+            "request": "launch",
+            "mainClass": "Projecto$Menu",
+            "projectName": "Proyecto1_76a08d8"
+        },
+        {
+            "type": "java",
+            "name": "Project",
+            "request": "launch",
+            "mainClass": "Proyecto.Project",
+            "projectName": "Proyecto1_76a08d8"
+        }
+    ]
+}
